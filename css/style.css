@@ -1,0 +1,77 @@
+header 
+.nav-flex-container {
+    display: inline-block;
+    width: 73%;
+    margin-right: auto;
+    font-family: 'Ovo', serif;
+    color: #010675;
+    text-align: right;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    float: left;
+}
+nav {
+   
+    width: 73%;
+    padding: 1%;
+}
+.nav-list {
+    width: 50%;
+    margin-right: auto;
+    font-family: 'Ovo', serif;
+    color: #010675;
+    text-align: right;
+}
+.heroImg {
+    display: flex-container;
+    flex-direction: row;
+}
+h1 {
+    font-family: 'Ovo', serif;
+    font-size: 42px;
+    color: #013F35; 
+}
+p {
+    font-size: 18px;
+    font-family: 'Muli', sans-serif;
+    color: #010675;
+}
+.headshot {
+    width: 33.3%;
+    padding: 25px;
+    justify-content: flex-start;
+}
+.content {
+    width: 50%;
+    justify-content: flex-start;
+    padding: 25px;
+}
+.contact-info {
+    text-align: center;
+}
+button {
+    background-color: #FAC9B8;
+    font-family: 'Ovo', serif;
+    color: #013F35; 
+    font-size: 42px;
+    padding: 12px;
+    align-items: center;
+    outline-color:  #013F35;
+    margin: 15px;
+}
+footer {
+   background-color: #013F35; 
+   display: inline-block;
+   vertical-align: bottom;
+   width: 100%;
+}
+.footerLinks {
+    padding: 1%;
+    vertical-align: bottom;
+}
+#copyright {
+   color: #F0F2A6;
+   text-align: right;
+}
